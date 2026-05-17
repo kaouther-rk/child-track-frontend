@@ -1,0 +1,105 @@
+{
+  "HomePage": {
+    "title": "Parce que votre tranquillité d'esprit commence par la protection de votre enfant!",
+    "description": "Notre bracelet intelligent est équipé de technologies vous permettant de suivre la position de votre enfant à tout moment, avec des alertes intelligentes qui détectent les zones dangereuses aux alentours. Il comprend également un bouton de sécurité dédié, permettant à votre enfant d’envoyer une alerte instantanée en cas de besoin. Liberté d’explorer pour lui, sérénité pour vous… car sa sécurité est notre priorité !",
+    "joinus": "Rejoignez-nous",
+    "UpBar": {
+      "login": "Connexion",
+      "register": "S'inscrire",
+      "home": "Accueil",
+      "dashboard": "Tableau de bord",
+      "logout": "Déconnexion",
+      "lang": {
+        "ar": "Arabe",
+        "en": "Anglais",
+        "fr": "Français"
+      }
+    }
+  },
+  "Auth": {
+    "login": {
+      "title": "Connectez-vous maintenant",
+      "email_title": "E-mail",
+      "email_place_holder": "Entrez votre e-mail",
+      "password_title": "Mot de passe",
+      "password_place_holder": "Entrez votre mot de passe",
+      "submit": "Soumettre"
+    },
+    "register": {
+      "title": "Inscrivez-vous maintenant",
+      "email_title": "Email",
+      "email_place_holder": "Entrez votre email",
+      "password_title": "Mot de passe",
+      "password_place_holder": "Entrez votre mot de passe",
+      "password_confirmation_title": "Confirmer le mot de passe",
+      "password_confirmation_place_holder": "Ressaisissez votre mot de passe",
+      "key_title": "Clé d'inscription",
+      "key_place_holder": "Entrez la clé d'inscription",
+      "submit": "S'inscrire"
+    },
+    "join": {
+      "title": "Rejoignez-nous",
+      "username_title": "Nom d'utilisateur",
+      "username_place_holder": "Entrez votre nom d'utilisateur",
+      "name_title": "Prénom",
+      "name_place_holder": "Entrez votre prénom",
+      "last_title": "Nom de famille",
+      "last_place_holder": "Entrez votre nom de famille",
+      "date_of_birth_title": "Date de naissance",
+      "date_of_birth_place_holder": "Sélectionnez votre date de naissance",
+      "wilaya_id_title": "Wilaya",
+      "wilaya_id_place_holder": "Choisissez votre wilaya",
+      "baladya_id_title": "Commune",
+      "baladya_id_place_holder": "Choisissez votre commune",
+      "submit": "Rejoindre"
+    }
+  },
+  "Dashboard": {
+    "UpBar": {
+      "Leave": "Quitter",
+      "Home": "Accueil"
+    },
+    "NavBar": {
+      "Home": "Accueil",
+      "Admins": "Administrateurs",
+      "Patients": "Patients",
+      "Doctors": "Médecins",
+      "Pharmacies": "Pharmacies",
+      "Sessions": "Sessions",
+      "Queues": "Files d'attente"
+    },
+    "Patients": {
+      "Title": "Patients",
+      "Create": "Créer un patient",
+      "Form": {
+        "Name": "Prénom",
+        "Last": "Nom",
+        "DateOfBirth": "Date de naissance",
+        "Phone": "Téléphone",
+        "Email": "Email",
+        "BaladiyaId": "ID Baladiya",
+        "Description": "Description"
+      },
+      "CreateMessages": {
+        "Success": "Patient créé avec succès !",
+        "Error": "Erreur lors de la création du patient.",
+        "Submit": "Créer le patient"
+      },
+      "Delete": {
+        "Confirm": "Êtes-vous sûr de vouloir supprimer ce patient ?",
+        "Submit": "Supprimer le patient"
+      },
+      "Key": {
+        "Create": {
+          "Success": "Clé créée avec succès !",
+          "Error": "Erreur lors de la création de la clé.",
+          "Submit": "Créer une clé",
+          "Confirm": "Êtes-vous sûr de vouloir créer une clé pour ce patient ?"
+        }
+      }
+    }
+  },
+  "Common": {
+    "Cancel": "Annuler"
+  }
+}

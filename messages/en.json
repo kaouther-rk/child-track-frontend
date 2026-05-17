@@ -1,0 +1,106 @@
+{
+  "HomePage": {
+    "title": "Because Your Peace of Mind Begins with Protecting Your Child!",
+    "description": "Our smart bracelet features technologies that allow you to monitor your child's location at any time, with smart alerts detecting dangerous areas nearby. It also includes a dedicated safety button, enabling your child to send an instant alert when needed. Freedom to explore for them, peace of mind for you... because their safety is our top priority!",
+    "joinus": "Join us",
+    "UpBar": {
+      "login": "Login",
+      "register": "Register",
+      "home": "Home",
+      "dashboard": "Dashboard",
+      "prescriptions": "Prescriptions",
+      "logout": "Logout",
+      "lang": {
+        "ar": "Arabic",
+        "en": "English",
+        "fr": "French"
+      }
+    }
+  },
+  "Auth": {
+    "login": {
+      "title": "Login now",
+      "email_title": "Email",
+      "email_place_holder": "Enter your email",
+      "password_title": "Email",
+      "password_place_holder": "Enter your email",
+      "submit": "Submit"
+    },
+    "register": {
+      "title": "Register now",
+      "email_title": "Email",
+      "email_place_holder": "Enter your email",
+      "password_title": "Password",
+      "password_place_holder": "Enter your password",
+      "password_confirmation_title": "Confirm Password",
+      "password_confirmation_place_holder": "Re-enter your password",
+      "key_title": "Registration Key",
+      "key_place_holder": "Enter the registration key",
+      "submit": "Register"
+    },
+    "join": {
+      "title": "Join us",
+      "username_title": "Username",
+      "username_place_holder": "Enter your username",
+      "name_title": "First Name",
+      "name_place_holder": "Enter your first name",
+      "last_title": "Last Name",
+      "last_place_holder": "Enter your last name",
+      "date_of_birth_title": "Date of Birth",
+      "date_of_birth_place_holder": "Select your birth date",
+      "wilaya_id_title": "Wilaya",
+      "wilaya_id_place_holder": "Choose your Wilaya",
+      "baladya_id_title": "Municipality",
+      "baladya_id_place_holder": "Choose your municipality",
+      "submit": "Join"
+    }
+  },
+  "Dashboard": {
+    "UpBar": {
+      "Leave": "Leave",
+      "Home": "Home"
+    },
+    "NavBar": {
+      "Home": "Home",
+      "Admins": "Admins",
+      "Patients": "Patients",
+      "Doctors": "Doctors",
+      "Pharmacies": "Pharmacies",
+      "Sessions": "Sessions",
+      "Queues": "Queues"
+    },
+    "Patients": {
+      "Title": "Patients",
+      "Create": "Create Patient",
+      "Form": {
+        "Name": "Name",
+        "Last": "Last Name",
+        "DateOfBirth": "Date of Birth",
+        "Phone": "Phone",
+        "Email": "Email",
+        "BaladiyaId": "Baladiya ID",
+        "Description": "Description"
+      },
+      "CreateMessages": {
+        "Success": "Patient created successfully!",
+        "Error": "Error creating patient.",
+        "Submit": "Create Patient"
+      },
+      "Delete": {
+        "Confirm": "Are you sure you want to delete this patient?",
+        "Submit": "Delete Patient"
+      },
+      "Key": {
+        "Create": {
+          "Success": "Key created successfully!",
+          "Error": "Error creating key.",
+          "Submit": "Create Key",
+          "Confirm": "Are you sure you want to create a key for this patient?"
+        }
+      }
+    }
+  },
+  "Common": {
+    "Cancel": "Cancel"
+  }
+}

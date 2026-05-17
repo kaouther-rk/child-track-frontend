@@ -1,0 +1,105 @@
+{
+  "HomePage": {
+    "title": " لأن راحة بالك تبدأ بحماية طفلك!",
+    "description": "يتميز سوارنا الذكي بتقنيات تتيح لك مراقبة موقع طفلك في أي لحظة، مع تنبيهات ذكية ترصد المناطق الخطرة من حوله. كما يضم زر أمان خاص، يمكّن طفلك من إرسال إشعار فوري عند الحاجة. حرية الاستكشاف له، وراحة البال لك... لأن سلامته هي أولويتنا!",
+    "joinus": "انضم الينا",
+    "UpBar": {
+      "login": "تسجيل الدخول",
+      "register": "إنشاء حساب",
+      "home": "الرئيسية",
+      "dashboard": "لوحة التحكم",
+      "logout": "تسجيل الخروج",
+      "lang": {
+        "ar": "العربية",
+        "en": "الإنجليزية",
+        "fr": "الفرنسية"
+      }
+    }
+  },
+  "Auth": {
+    "login": {
+      "title": "تسجيل الدخول الآن",
+      "email_title": "البريد الإلكتروني",
+      "email_place_holder": "أدخل بريدك الإلكتروني",
+      "password_title": "كلمة المرور",
+      "password_place_holder": "أدخل كلمة المرور",
+      "submit": "إرسال"
+    },
+    "register": {
+      "title": "سجّل الآن",
+      "email_title": "البريد الإلكتروني",
+      "email_place_holder": "أدخل بريدك الإلكتروني",
+      "password_title": "كلمة المرور",
+      "password_place_holder": "أدخل كلمة المرور",
+      "password_confirmation_title": "تأكيد كلمة المرور",
+      "password_confirmation_place_holder": "أعد إدخال كلمة المرور",
+      "key_title": "رمز التسجيل",
+      "key_place_holder": "أدخل رمز التسجيل",
+      "submit": "تسجيل"
+    },
+    "join": {
+      "title": "انضم إلينا",
+      "username_title": "اسم المستخدم",
+      "username_place_holder": "أدخل اسم المستخدم",
+      "name_title": "الاسم الأول",
+      "name_place_holder": "أدخل الاسم الأول",
+      "last_title": "اللقب",
+      "last_place_holder": "أدخل اللقب",
+      "date_of_birth_title": "تاريخ الميلاد",
+      "wilaya_id_title": "الولاية",
+      "wilaya_id_place_holder": "اختر ولايتك",
+      "date_of_birth_place_holder": "اختر تاريخ الميلاد",
+      "baladya_id_title": "البلدية",
+      "baladya_id_place_holder": "اختر بلديتك",
+      "submit": "انضم"
+    }
+  },
+  "Dashboard": {
+    "UpBar": {
+      "Leave": "مغادرة",
+      "Home": "الرئيسية"
+    },
+    "NavBar": {
+      "Home": "الرئيسية",
+      "Admins": "المشرفون",
+      "Patients": "المرضى",
+      "Doctors": "الأطباء",
+      "Pharmacies": "الصيدليات",
+      "Sessions": "الجلسات",
+      "Queues": "طوابير الانتظار"
+    },
+    "Patients": {
+      "Title": "المرضى",
+      "Create": "إنشاء مريض",
+      "Form": {
+        "Name": "الاسم الأول",
+        "Last": "الاسم الأخير",
+        "DateOfBirth": "تاريخ الميلاد",
+        "Phone": "الهاتف",
+        "Email": "البريد الإلكتروني",
+        "BaladiyaId": "معرف البلدية",
+        "Description": "الوصف"
+      },
+      "CreateMessages": {
+        "Success": "تم إنشاء المريض بنجاح!",
+        "Error": "خطأ في إنشاء المريض.",
+        "Submit": "إنشاء مريض"
+      },
+      "Delete": {
+        "Confirm": "هل أنت متأكد أنك تريد حذف هذا المريض؟",
+        "Submit": "حذف المريض"
+      },
+      "Key": {
+        "Create": {
+          "Success": "تم إنشاء المفتاح بنجاح!",
+          "Error": "خطأ في إنشاء المفتاح.",
+          "Submit": "إنشاء مفتاح",
+          "Confirm": "هل أنت متأكد أنك تريد إنشاء مفتاح لهذا المريض؟"
+        }
+      }
+    }
+  },
+  "Common": {
+    "Cancel": "إلغاء"
+  }
+}
